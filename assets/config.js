@@ -15,11 +15,6 @@ let config = {
       "icon_classes": "fab fa-instagram"
     },
     {
-      "Title": "website",
-      "URL": "./flower.html",
-      "icon_classes": "fas fa-link",
-    },
-    {
       "Title": "Github",
       "URL": "https://github.com/deririzkyip",
       "icon_classes": "fab fa-github",
