@@ -10,9 +10,9 @@ let config = {
       "icon_classes": "fab fa-instagram"
     },
     {
-      "Title": "desain logo",
+      "Title": "Website Roblox",
       "URL": "https://lynk.id/arutala_32",
-      "icon_classes": "https://icons8.com/icon/742/external-link"
+      "icon_classes": "fa-solid fa-link"
     },
     {
       "Title": "Github",
