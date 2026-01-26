@@ -11,8 +11,8 @@ let config = {
     },
     {
       "Title": "desain logo",
-      "URL": "https://www.instagram.com/permanadesign_drip",
-      "icon_classes": "fab fa-instagram"
+      "URL": "https://lynk.id/arutala_32",
+      "icon_classes": "https://icons8.com/icon/742/external-link"
     },
     {
       "Title": "Github",
